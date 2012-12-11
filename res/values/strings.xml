@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Scorekeep</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ScoreKeep</string>
+    <string name="edit_message">this is where ya edit dude</string>
+    <string name="button_send">Send it momma</string>
+    <string name="title_activity_display_message">MyMessage</string>
+    <string name="name_hint">name</string>
+    <string name="mil">military</string>
+    <string name="total">SUM</string>
+    <string name="coin">coin</string>
+    <string name="wonder">wonders</string>
+    <string name="science">science</string>
+    <string name="civilian">civilian</string>
+    <string name="trade">trade</string>
+    <string name="guilds">guilds</string>
+    <string name="name">name</string>
+    <string name="clear">CLEAR</string>
+
+</resources>
